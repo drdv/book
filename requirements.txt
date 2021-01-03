@@ -1,0 +1,7 @@
+numpy
+matplotlib
+jupytext
+jupyterlab
+jupyter-book
+ipython
+pandas
